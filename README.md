@@ -12,6 +12,7 @@
 - Languages: English, Hindi.
 - Experienced in: Analytical thinking, problem solving, teamwork, Database Management.
 - Participated in KIIT MUN 2024.
+- Projects: Created a Grocery Store Billing System that allows you to add itmes, gives their respective price, total bill amount in a very intractive interface.
    
 
 <!---
